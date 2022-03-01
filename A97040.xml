@@ -1,0 +1,385 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Certain propositions made by Sir William Waller, at the surrender of Arundell-Castle. Together with a list of the names of the commanders taken in the said castle. Also, verses gratulatory. Licensed, and printed according to order.</title>
+            <author>Waller, William, Sir, 1597?-1668.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A97040</idno>
+            <idno type="STC">Wing W540</idno>
+            <idno type="STC">Thomason E81_21</idno>
+            <idno type="STC">ESTC R21146</idno>
+            <idno type="EEBO-CITATION">99870185</idno>
+            <idno type="PROQUEST">99870185</idno>
+            <idno type="VID">122577</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A97040)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 122577)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 14:E81[21])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Certain propositions made by Sir William Waller, at the surrender of Arundell-Castle. Together with a list of the names of the commanders taken in the said castle. Also, verses gratulatory. Licensed, and printed according to order.</title>
+                  <author>Waller, William, Sir, 1597?-1668.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by John Field,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>Jan. 11. 1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Waller, William, --  Sir, 1597?-1668.</term>
+               <term>Arundel Castle (West Sussex) --  Siege, 1644 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-01</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:122577:1"/>
+            <p>CERTAIN PROPOSITIONS <hi>MADE</hi> By Sir <hi>William Waller,</hi> At the Surrender of <hi>Arundell-Caſtle.</hi>
+            </p>
+            <p>Together with A Liſt of the Names OF The <hi>Commanders</hi> taken in the ſaid <hi>Caſtle.</hi>
+            </p>
+            <p>Alſo, Verſes Gratulatory.</p>
+            <p>Licenſed, and Printed according to Order.</p>
+            <p>Printed by JOHN FIELD, Jan. 11. 1644.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:122577:2"/>
+            <pb n="3" facs="tcp:122577:2"/>
+            <head>A Gratulatory, as it was preſented to the Lady Waller upon her Husbands taking of <hi>Arundell Caſtle.</hi>
+            </head>
+            <lg>
+               <l>
+                  <seg rend="decorInit">M</seg>Adame, Bay-crowned Victory and Fame,</l>
+               <l>Your husbands Pages, bade me in his name</l>
+               <l>Salute you, and (though it be no news) tell</l>
+               <l>Of his renowned Acts at <hi>Aurndel.</hi>
+               </l>
+               <l>Your pardon then, that I thus rudely preſſe</l>
+               <l>To kiſſe your hands in a poetlick dreſſe;</l>
+               <l>At ſuch a time too, when the moſt do ſee,</l>
+               <l>All, as antick, ſet out in Poeſie.</l>
+               <l>But yours are not vulgar eyes; nor the ſtone</l>
+               <l>Leſſe precious which a Swine hath trampled on:</l>
+               <l>Nor do I think you will more lightly ſet</l>
+               <l>A Jemme, though in a worthleſſe cabinet.</l>
+               <l>I here preſent a Jewell, which I dare</l>
+               <l>Pronounce, though from mean hands it come, moſt rare;</l>
+               <l>Your husbands honour, from whoſe brighter flame</l>
+               <l>Theſe borrowed ſparks, pay tribute to his name;</l>
+               <l>And muſt confeſſe, that they can nothing give</l>
+               <l>Worthy of him, by whom themſelves muſt live.</l>
+               <l>That goodneſſe of that cauſe for whom he fights,</l>
+               <l>In alarms and arms, ſpending the tedious nights,</l>
+               <l>Were praiſe enough, though he, perhaps ſhould come</l>
+               <l>(Which heav'n forbid) to us, ſucceſſeſſe, home:</l>
+               <l>But when, unto our joy, we ſee him goe</l>
+               <l>With triumph, on againſt the common foe,</l>
+               <pb n="4" facs="tcp:122577:3"/>
+               <l>And raiſe his Trophes, there, within thoſe walls</l>
+               <l>That had conſpir'd, and vow'd his funeralls,</l>
+               <l>Me thinks, our narrow language is too poor</l>
+               <l>To entertain his honours wealth and ſtore.</l>
+               <l>Me thinks, I already read that larger page</l>
+               <l>Of Chronicle, in the enſuing Age,</l>
+               <l>Which ſhall contain his Name, unleſſe that he</l>
+               <l>Goe on ſo far, it muſt a Volume be:</l>
+               <l>Then, as I turn the leaves, perhaps, I finde</l>
+               <l>Some lofty ſtrain to ſpeak his gallant minde,</l>
+               <l>And tell our after-nephewes part of all</l>
+               <l>That made him up a perfect Generall.</l>
+               <l>And what may he not do, to whom ſucceſſe</l>
+               <l>Is due, except our ſins do make it leſſe?</l>
+               <l>Why then may it not written be as well,</l>
+               <l>He conquer'd all the South, as <hi>Arundell?</hi>
+               </l>
+               <l>Or ſhall we think his active ſpirit meant,</l>
+               <l>Only to ſtop the paſſage into <hi>Kent?</hi>
+               </l>
+               <l>The yet half Pagan Welch, that have no ſight</l>
+               <l>To diſtinguiſh, becauſe they want true light,</l>
+               <l>Except him: may he on then, to diſplay</l>
+               <l>Together with his ſtandard, a bright day</l>
+               <l>To that dark corner, and expell from thence,</l>
+               <l>The enemies advantage, rude ignorance:</l>
+               <l>And on his name may this due honour reſt,</l>
+               <l>He made good one ſide, all from Eaſt to Weſt.</l>
+               <l>This is enough; it were not mect to pray,</l>
+               <l>Or wiſh all fortune from the reſt away,</l>
+               <l>When other Heroes, now, in every field,</l>
+               <l>Command oppoſers to deſpaire and yeeld:</l>
+               <l>On one ſide <hi>Fairfax,</hi> t'other <hi>Mancheſter,</hi>
+               </l>
+               <l>The <hi>Scots</hi> behind, brave <hi>Eſſex</hi> every where;</l>
+               <l>Whoſe peerleſſe honour is, thus to retain</l>
+               <l>Himſelf ſupreme of ſuch a noble train;</l>
+               <pb n="5" facs="tcp:122577:3"/>
+               <l>The luſtre of whoſe Creſts, in marching forth,</l>
+               <l>Will ſhine more bright in conqueſt of the North.</l>
+            </lg>
+            <lg>
+               <l>Thus Madam, in our thoughts, the work is end ed,</l>
+               <l>Religion, and the State, by you befriended:</l>
+               <l>All muſt confeſſe thanks, who know what a mind</l>
+               <l>You bear beyond the reſt of woman-kind,</l>
+               <l>That can with ſo much willingneſſe, expoſe</l>
+               <l>Your chiefeſt Iewell to the reach of foes;</l>
+               <l>Diſpend with all your marriage joyes ſo far,</l>
+               <l>To hazard them upon the chance of war.</l>
+               <l>But doubtleſſe, 'twill be greater joy to ſee</l>
+               <l>Him laden back with prize, and victory;</l>
+               <l>And then ſome pen, more able, ſhall rehearſe</l>
+               <l>His worthy deeds in Chronicle, not Verſe.</l>
+            </lg>
+         </div>
+         <div type="propositions">
+            <pb n="6" facs="tcp:122577:4"/>
+            <head>
+               <hi>Propoſitions made by Sir</hi> VVilliam Waller, <hi>to the beſieged in</hi> Arundle-Caſtle.</head>
+            <p n="1">1 I require the Caſtle of <hi>Arundell</hi> to be delivered in<g ref="char:EOLhyphen"/>to my hands by to morrow morning ten a clock.</p>
+            <p n="2">2 That all Collonels of Horſe, and Foot, and all Horſe, Arms, Ammunition, and military proviſion, what ever be then delivered unto me entire, and unſpoyled.</p>
+            <p n="3">3 That all Commanders, Officers, and Gentlemen, have fair quarter, and civill uſage.</p>
+            <p n="4">4 That all Souldiers ſhall have quarter for their lives.</p>
+            <p n="5">5 That for ſecurity of performance, Sir <hi>Edward Bi<g ref="char:EOLhyphen"/>ſhop,</hi> and Sir <hi>Edward Foord</hi> be immediatly delivered into my hands.</p>
+            <closer>
+               <signed>Will: Waller.</signed>
+            </closer>
+         </div>
+         <div type="explication_of_propositons">
+            <head>Explication.</head>
+            <p n="1">1 By fair quarter I underſtand, giving life to thoſe that yeeld, with impriſonment of their perſons, but civill uſage, which is ſufficient ſecurity, they ſhall not be plun<g ref="char:EOLhyphen"/>dered.</p>
+            <p n="2">2 Concerning the place where they ſhall be ſent, I will not determine, but will be left to mine own freedom, with<g ref="char:EOLhyphen"/>out further capitulation.</p>
+            <p n="3">3 The Miniſters are included in the Articles, and are priſoners as well as the ſouldiers.</p>
+            <p n="4">4 When I ſend away the Officers, I ſhall take care, that they ſhall not want horſes to carry them, but will not be bound to let them have their own horſes.</p>
+         </div>
+         <div type="list_of_commanders">
+            <pb n="7" facs="tcp:122577:4"/>
+            <head>A Liſt of the Names of the Commanders taken by Sir <hi>Will. Waller,</hi> at the ſurrendring up of <hi>Arundel Caſtle.</hi>
+            </head>
+            <list>
+               <head>Colonells.</head>
+               <item>Bamfield.</item>
+               <item>Biſhop.</item>
+               <item>Foord.</item>
+            </list>
+            <list>
+               <head>Lievt. Colonells.</head>
+               <item>Walker.</item>
+               <item>Rawlins.</item>
+            </list>
+            <list>
+               <head>Majors</head>
+               <item>Bevill.</item>
+               <item>Mullins.</item>
+               <item>Gaudy.</item>
+               <item>Mills.</item>
+            </list>
+            <list>
+               <head>Capt. Gabriel Thomas</head>
+               <item>
+                  <hi>Martiall Generall.</hi>
+               </item>
+               <item>Edw. White <hi>Quarter<g ref="char:EOLhyphen"/>maſter Generall.</hi>
+               </item>
+            </list>
+            <list>
+               <head>Captains of the Horſe.</head>
+               <item>Croſland.</item>
+               <item>Aſhford.</item>
+               <item>Aſhcott.</item>
+               <item>Hagidott.</item>
+               <item>Buckley.</item>
+            </list>
+            <list>
+               <head>Capt. of Foote.</head>
+               <item>Shanckes</item>
+               <item>Taylor</item>
+               <item>Edmonds</item>
+               <item>Anthony</item>
+               <item>Garret</item>
+               <item>Beale</item>
+               <item>Rawlins</item>
+               <item>Leach</item>
+               <item>Reeve</item>
+               <item>Riche</item>
+               <item>Garret</item>
+               <item>Thomas</item>
+            </list>
+            <list>
+               <head>Reſormado's.</head>
+               <item>Mulbancke</item>
+               <item>Kempe</item>
+            </list>
+            <list>
+               <head>Leivt. of Horſe.</head>
+               <item>Thornton</item>
+               <item>Rockey</item>
+               <item>Munckton</item>
+            </list>
+            <list>
+               <head>Leivt. of Foote.</head>
+               <item>Garret</item>
+               <item>Maſters</item>
+               <item>Atkins</item>
+               <item>Eaton</item>
+               <item>Blacke</item>
+               <item>Shipton</item>
+               <item>Ildiſh</item>
+               <item>Maſters</item>
+               <item>Allot</item>
+               <item>Leach</item>
+               <item>Talborne</item>
+               <item>Mackridge</item>
+               <item>Warren</item>
+               <item>Rene</item>
+               <item>Sorrey</item>
+               <item>Scott</item>
+               <item>Turkey</item>
+               <item>Coyle</item>
+               <item>Lightford</item>
+            </list>
+            <list>
+               <head>Cornets.</head>
+               <item>Powell</item>
+               <item>Rochley</item>
+               <item>Williams</item>
+               <item>Halcy</item>
+               <item>Hooke.</item>
+            </list>
+            <list>
+               <head>Enſignes.</head>
+               <item>Duellinge</item>
+               <pb n="8" facs="tcp:122577:5"/>
+               <item>Jones</item>
+               <item>Riche</item>
+               <item>Stechſeame</item>
+               <item>Sadler</item>
+               <item>Williams</item>
+               <item>Channon</item>
+               <item>Cowlis</item>
+               <item>Earles</item>
+               <item>Lichford</item>
+               <item>Prynne</item>
+               <item>Cooper</item>
+               <item>Gilbert</item>
+               <item>Martin</item>
+               <item>Goringe</item>
+               <item>Weymer</item>
+               <item>Gloſſe Sutton</item>
+            </list>
+            <list>
+               <head>Gentlemen.</head>
+               <item>Gilbert Beckingham</item>
+               <item>Arthur Creſwell</item>
+               <item>Henry Goringe</item>
+               <item>Mr. Ennerfield</item>
+               <item>Robert Allen</item>
+               <item>Thomas Marlett</item>
+               <item>Iohn Pay</item>
+            </list>
+            <list>
+               <head>Surgeons.</head>
+               <item>Will. Roſſe</item>
+               <item>Will. Berey</item>
+               <item>Will. Pell</item>
+               <item>Iohn Greenfield</item>
+               <item>Iohn Beacher</item>
+               <item>Richard Serley</item>
+               <item>Henrv Baveninge</item>
+               <item>Will. Welbe.</item>
+            </list>
+            <list>
+               <head>Qartermaſter.</head>
+               <item>Robert Lurbord Floyde</item>
+               <item>Richard Spur<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hford</item>
+               <item>Richard Lewis</item>
+               <item>Richard Cubbe</item>
+               <item>Iohn Eaſton.</item>
+            </list>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
